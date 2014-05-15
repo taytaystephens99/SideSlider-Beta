@@ -9,6 +9,6 @@ This tweak is in beta and I recommend you to try it out! Not everything has been
 
 TODO:
 Give the background a dark blur effect.
-Add media toggles
-Revamp realestate
+Add media toggles.
+Revamp realestate.
 Add images to show the difference between the two sliders.
