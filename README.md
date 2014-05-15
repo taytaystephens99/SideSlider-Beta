@@ -12,3 +12,4 @@ Give the background a dark blur effect.
 Add media toggles.
 Revamp realestate.
 Add images to show the difference between the two sliders.
+
